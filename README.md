@@ -1,3 +1,14 @@
+<div align="center">
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Phant0m_%2F%2F_CyberSec_%26_Architecture-00f0ff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=090c10)](https://t.me/phant0m_BIO_channel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00e676?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=090c10)](https://phant0mcyber01-hud.github.io)
+[![Author](https://img.shields.io/badge/Contact-@whoami__user01-7928ca?style=for-the-badge&logo=telegram&logoColor=white&labelColor=090c10)](https://t.me/whoami_user01)
+
+</div>
+
+---
+
+
 # eve Chat Template
 
 A Next.js chat template for [eve](https://eve.dev) that starts with password access and browser-persisted chats, then upgrades to Sign in with Vercel, Neon, and Upstash when you need a production multi-user application.
